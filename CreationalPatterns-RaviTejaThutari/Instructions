@@ -1,0 +1,17 @@
+Steps:
+
+Import the  project(unziped) to your Ide.
+	1. Right click on the project name in package explorer
+	2. Go to Build Path -- > Configure Build Path --> Add Library --> Open library folder in current project --> Select all jars-> Click ok
+	3. Right click on project and Select Run as-> Java Application
+	
+	The UI will appear.
+	
+	4.Select your choice and click on Submit.
+	The files are created.
+	
+	Input GradData.xml and UndergradData.json
+	are in 'InputFiles' Folder
+	
+	Output files are created in the OutputFiles folder in the workspace
+	UG for Undergrads and GR- graduate students
